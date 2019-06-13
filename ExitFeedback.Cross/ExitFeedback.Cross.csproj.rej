@@ -1,0 +1,16 @@
+diff a/ExitFeedback.Cross/ExitFeedback.Cross.csproj b/ExitFeedback.Cross/ExitFeedback.Cross.csproj	(rejected hunks)
+@@ -2,9 +3,14 @@
++<<<<<<< HEAD
+ ﻿<Project Sdk="Microsoft.NET.Sdk">
++=======
++<Project Sdk="Microsoft.NET.Sdk">
++>>>>>>> 67cca18d4d2dd262fde58619b91d399e160d2552
+ 
+   <PropertyGroup>
+     <TargetFramework>netstandard2.0</TargetFramework>
+   </PropertyGroup>
+ 
++<<<<<<< HEAD
+   <ItemGroup>
+     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.2.3" />
+   </ItemGroup>

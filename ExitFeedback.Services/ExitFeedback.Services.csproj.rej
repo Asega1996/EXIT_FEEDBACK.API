@@ -1,0 +1,13 @@
+diff a/ExitFeedback.Services/ExitFeedback.Services.csproj b/ExitFeedback.Services/ExitFeedback.Services.csproj	(rejected hunks)
+@@ -4,8 +4,11 @@
+     <TargetFramework>netstandard2.0</TargetFramework>
+   </PropertyGroup>
+ 
++<<<<<<< HEAD
+   <ItemGroup>
+     <ProjectReference Include="..\ExitFeedback.Models\ExitFeedback.Models.csproj" />
+   </ItemGroup>
+ 
++=======
++>>>>>>> 67cca18d4d2dd262fde58619b91d399e160d2552
+ </Project>

@@ -1,0 +1,10 @@
+diff a/ExitFeedback.API/ExitFeedback.API.csproj b/ExitFeedback.API/ExitFeedback.API.csproj	(rejected hunks)
+@@ -2,4 +3,8 @@
++<<<<<<< HEAD
+ ﻿<Project Sdk="Microsoft.NET.Sdk.Web">
++=======
++<Project Sdk="Microsoft.NET.Sdk.Web">
++>>>>>>> 67cca18d4d2dd262fde58619b91d399e160d2552
+ 
+   <PropertyGroup>
+     <TargetFramework>netcoreapp2.2</TargetFramework>
